@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "risk-and-compliance-dashboard"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "d32917e3-02ce-bc27-48e8-e0f8f283835e"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "DataPipeline",
+    "displayName": "zesco-datasource-pipeline"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "bf10b658-34d1-ba87-4550-d989853bea7d"
+  }
+}

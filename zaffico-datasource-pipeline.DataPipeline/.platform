@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "DataPipeline",
+    "displayName": "zaffico-datasource-pipeline"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "74e8ad2d-5f00-936c-4e15-13ca6c710e50"
+  }
+}

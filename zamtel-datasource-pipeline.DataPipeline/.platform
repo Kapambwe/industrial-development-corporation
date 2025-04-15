@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "DataPipeline",
+    "displayName": "zamtel-datasource-pipeline"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "1d164f2f-18d3-bbae-433d-444b9588ed37"
+  }
+}

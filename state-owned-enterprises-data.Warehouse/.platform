@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Warehouse",
+    "displayName": "state-owned-enterprises-data"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "040c8fe1-d0f9-9ffb-4c90-59286aa766f0"
+  }
+}
